@@ -11,10 +11,18 @@
   margin-right: auto;
 }
 
+.titleCentre {
+  text-align: center;
+}
 
-.exp {
+.imageCentre {
   height: 300px;
   width: 300px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.spacious {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
